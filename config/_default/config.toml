@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish" # UNCOMMENT THIS LINE
-# baseURL = "https://pipabloprojectsblog.github.io/"
+# baseURL = "https://myprojectsblogrepo.github.io/"
 #baseURL = "http://localhost:1313/"
 defaultContentLanguage = "en"
 
