@@ -14,8 +14,7 @@
     name = "Home"
     pageRef = "/"
     weight = 1
-
-
+    
 #[[main]]
 #    name = "Proyectos"
 #    pageRef = "posts"
@@ -25,6 +24,11 @@
   name = "Blog"
   pageRef = "posts"
   weight = 10
+
+[[main]]
+  name = "Projects"
+  pageRef = "projects"
+  weight = 3
 
 #[[main]]
 #  name = "Parent"

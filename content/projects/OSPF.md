@@ -2,7 +2,7 @@
 title: "Protocolo OSPF: Estudio e implementación en MikroTiK"
 date: 2026-01-29
 description: "Análisis técnico, configuración y simulación de escenarios de enrutamiento dinámico OSPFv2 utilizando routers MikroTik RouterOS v7."
-tags: ["mikrotik", "ospf", "PnetLab", "proxmox", "wireshark", "winbox"]
+tags: ["mikrotik", "ospf", "pnetLab", "proxmox", "wireshark", "winbox"]
 categories: ["proyectos", "laboratorio"]
 showTableOfContents: true
 showAuthor: true
